@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Integration Engineer [@Unleash](https://github.com/chaseappio)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [@Linkedin Profile](https://www.linkedin.com/in/olivera-mladenovic)</h3>
 <p align="left">
 </p>
 
