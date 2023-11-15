@@ -1,8 +1,8 @@
-<h3 align="center">Software Developer building innovative ideas using elegant code!</h3>
+# Software Developer building innovative ideas using elegant code!
 
-- 🔭 I’m currently working as Integration Engineer [@Unleash](https://github.com/chaseappio)
+- 🔭 I’m currently working as an Integration Engineer [@Unleash](https://github.com/chaseappio)
 
-## Connect with me [on Linkedin](www.linkedin.com/in/olivera-mladenovic)
+## Connect with me [on Linkedin](https://www.linkedin.com/in/olivera-mladenovic)
 <p align="left">
 </p>
 
